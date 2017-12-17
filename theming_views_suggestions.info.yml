@@ -1,0 +1,6 @@
+name: Theming Views Suggestions
+description: Provide HTML template suggestions when debug is enabled.
+type: module
+core: 8.x
+package: Develop
+project: 'Develop'
